@@ -3,7 +3,8 @@
     import { backOut } from 'svelte/easing';
     import { responsive, type ResponsiveState } from './ClientResponsiveStore.ts';
     import { onDestroy, onMount } from 'svelte';
-    import '$assets/lib.css';
+
+    import '../../../assets/lib.css';
     
     let res = $state<ResponsiveState>(responsive.getState());
     let isDialogOpen = $state(false);

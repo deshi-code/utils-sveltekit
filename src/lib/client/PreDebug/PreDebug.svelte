@@ -1,7 +1,7 @@
 <script lang="ts" module>
     let instanceCount = 0;
     let portalContainer: HTMLDivElement | null = null;
-    import '$assets/lib.css';
+    import '../../../assets/lib.css';
     function getPortal() {
         if (typeof document === 'undefined') return null;
         if (!portalContainer) {
