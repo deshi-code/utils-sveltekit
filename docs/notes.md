@@ -6,7 +6,7 @@
 git add .
 
 # 2. Commit the initial release
-git commit -m "feat: initial release v0.0.1"
+git commit -am "feat: initial release v0.0.1"
 
 # 3. Tag it as v0.0.1
 git tag v0.0.1
