@@ -1,6 +1,7 @@
 {
 	"name": "@deshicode/utils-sveltekit",
 	"version": "0.0.1",
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/deshi-code/utils-sveltekit.git"

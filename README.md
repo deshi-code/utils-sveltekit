@@ -1,6 +1,15 @@
 # @deshicode/utils-sveltekit
-A suite of enterprise-grade SvelteKit utilities designed for internal use. 
  
+
+[![Build & Publish](https://github.com/deshi-code/utils-sveltekit/actions/workflows/publish.yml/badge.svg)](https://github.com/deshi-code/utils-sveltekit/actions)
+[![NPM Version](https://img.shields.io/npm/v/%40deshicode%2Futils-sveltekit?color=label=npm)](https://www.npmjs.com/package/@deshicode/utils-sveltekit)
+[![NPM Downloads](https://img.shields.io/npm/dm/%40deshicode%2Futils-sveltekit?color=black)](https://www.npmjs.com/package/@deshicode/utils-sveltekit)
+[![License](https://img.shields.io/github/license/deshi-code/utils-sveltekit?color=blue)](https://github.com/deshi-code/utils-sveltekit/blob/main/LICENSE)
+[![SvelteKit Compatibility](https://img.shields.io/badge/SvelteKit-Compatible-ff3e00?logo=svelte&logoColor=white)](https://kit.svelte.dev)
+
+
+
+A suite of enterprise-grade SvelteKit utilities designed for internal use. Optimized for high-performance debugging, hardware-aware responsiveness, and seamless development workflows.
 
 
 ## **@deshicode/utils-sveltekit/client**
